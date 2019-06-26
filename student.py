@@ -19,9 +19,3 @@ class Student:
 
     def get_school_name(self):
         return self.school_name
-
-
-mark = Student("Jessiedee Mark", "Gingo", 101187405)
-elma = Student("Elma", "Donaire", 96487)
-jeniza = Student("Jeniza", "Hortizano", 1023457823)
-print(students[0])
